@@ -1,0 +1,6 @@
+[build]
+  # Tidak perlu build command, ini file statis
+  publish = "."
+
+[functions]
+  directory = "netlify/functions"
